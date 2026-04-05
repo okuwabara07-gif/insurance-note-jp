@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://insurance-note-jp.vercel.app/sitemap.xml
